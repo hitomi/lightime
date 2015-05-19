@@ -104,9 +104,10 @@ html.night .link i {
 .container .article {
   padding: 24px 0 0 0;
 }
-.container .article .title {
+.container .article .title a{
   font-weight: bold;
   font-size: 32px;
+  text-decoration: none;
 }
 .container .article .category {
   line-height: 24px;
